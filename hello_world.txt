@@ -1,0 +1,2 @@
+Hello Odin_Project 
+This is the my first doing the GIT
