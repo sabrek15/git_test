@@ -1,2 +1,3 @@
 Hello Odin_Project 
-This is the my first doing the GIT
+This is the my first doing the 
+I am so happy that I am able to understand basics.
